@@ -14,10 +14,11 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-facebook: XiaoqiaoChen
+twitter: XiaoqiaoChen
+weibo: xiaoqiaochen
 github: xqchen
-tumblr: xiaoqiaochen
-stackoverflow: Xiaoqiao Chen
+instagram: XiaoqiaoChen
+linkedin: Xiaoqiao Chen
 
 # avatar and Favicon
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
