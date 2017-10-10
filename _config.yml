@@ -1,12 +1,12 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
+title: Xiaoqiao Chen
+email: cherishchen0707@gmail.com
+description: IT, CS blogs of Xiaoqiao Chen> # this means to ignore newlines until "baseurl:"
+  Xiaoqiao Chen
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://yansu.org # the base hostname & protocol for your site
+url: http://xqchen.github.io/xqc.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: Xiaoqiao Chen
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -14,11 +14,10 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: masonsuyan
-weibo: suyan0830
-github: suyan
-instagram: suyan0830
-linkedin: suyan0830
+facebook: XiaoqiaoChen
+github: xqchen
+tumblr: xiaoqiaochen
+stackoverflow: Xiaoqiao Chen
 
 # avatar and Favicon
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
@@ -26,12 +25,9 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: suyan-zh
+  shortname: xqchen
 
 # google analytics config
-ga:
-  id: UA-54767140-1
-  url: yansu.org
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
